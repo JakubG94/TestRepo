@@ -1,0 +1,15 @@
+admin rwx	4+2+1 = 7 (executable,write,read) <--- poziomy dostepu
+group rx	4+2 = 6 (read,write)
+public r	4 (read)
+
+pwyzej taka konfiguracje pliku mozna wprowadzic poprzez komende chmod 764 [nazwa pliku]
+
+1.	1 executable
+2.	2 write
+3.	4 read
+
+
+1+2+4 = 7
+
+
+
