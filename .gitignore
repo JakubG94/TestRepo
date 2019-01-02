@@ -8,8 +8,12 @@
 .local/
 .profile
 .sudo_as_admin_successful
+.thunderbird/
 .vboxclient-clipboard.pid
 .vboxclient-display.pid
 .vboxclient-draganddrop.pid
 .vboxclient-seamless.pid
-
+Desktop/
+Pictures/
+examples.desktop
+nano.save
