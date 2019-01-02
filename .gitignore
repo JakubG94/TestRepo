@@ -1,0 +1,15 @@
+.ICEauthority
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.gnupg/
+.local/
+.profile
+.sudo_as_admin_successful
+.vboxclient-clipboard.pid
+.vboxclient-display.pid
+.vboxclient-draganddrop.pid
+.vboxclient-seamless.pid
+
